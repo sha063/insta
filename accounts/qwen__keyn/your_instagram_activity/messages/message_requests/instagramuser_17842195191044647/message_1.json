@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690567169049,
+      "content": "Hey there! It's Lina from @beloryaofficial, reaching out to you with an exciting opportunity!\r\n\r\nWe've been admiring your profile and can't help but notice your incredible sense of style and fashion. We think you would be a perfect fit for our glasses store. That's why we're reaching out to explore the possibility of a collaboration and create some amazing content together.\r\n\r\nDrop us a line at @beloryaofficial and be sure to mention that Lina invited you. We can't wait to hear from you and discuss the possibilities! \u00f0\u009f\u0098\u008d Let's make magic happen! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690567169042,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/sultanslacks.recruiter",
+        "profile_share_username": "sultanslacks.recruiter",
+        "profile_share_name": "SultanSlacks Official"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17842195191044647",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

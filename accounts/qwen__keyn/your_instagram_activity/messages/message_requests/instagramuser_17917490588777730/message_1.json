@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690632576582,
+      "content": "\u00e2\u009c\u00a8 Hey! We hope you're doing great. Our Ambassador spots are filling quickly, and we'd love to have you on board. Don't miss this amazing opportunity! Send a quick message with the keyword \"Ambassador\" to @the.levesque to get started. We can't wait to collaborate with you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690632575894,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/the.levesque",
+        "profile_share_username": "the.levesque",
+        "profile_share_name": "Levesque"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690478299971,
+      "content": "\u00e2\u009c\u00a8 Hey! We hope you're doing great. Our Ambassador spots are filling quickly, and we'd love to have you on board. Don't miss this amazing opportunity! Send a quick message with the keyword \"Ambassador\" to @the.levesque to get started. We can't wait to collaborate with you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690478299935,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/the.levesque",
+        "profile_share_username": "the.levesque",
+        "profile_share_name": "Levesque"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690398665111,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/the.levesque",
+        "profile_share_username": "the.levesque",
+        "profile_share_name": "Levesque"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690398664569,
+      "content": "Hello\u00f0\u009f\u00a4\u0097!\n\nWe are the promoter team at LEVESQUE and we think you'd be a perfect fit as one of our ambassadors. If you're interested, we would love to work with you and send you our glasses for FREE\u00f0\u009f\u0095\u00b6\u00f0\u009f\u0092\u00a5.\n\nSimply click the link above and send a direct message with the code 'ambassador' to our main account @the.levesque. Our team will get back to you as soon as possible. Hurry, as there are only 6 spaces left due to high demand.\n\nThank you for considering this opportunity\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17917490588777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

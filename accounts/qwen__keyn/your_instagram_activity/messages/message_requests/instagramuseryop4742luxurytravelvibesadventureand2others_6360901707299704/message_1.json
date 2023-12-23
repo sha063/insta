@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "yop4742"
+    },
+    {
+      "name": "LUXURY TRAVEL VIBES ADVENTURE"
+    },
+    {
+      "name": "H\u00c3\u00b6ssam B\u00c3\u00b6khary"
+    },
+    {
+      "name": "qwen__keyn"
+    },
+    {
+      "name": "John w George"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "H\u00c3\u00b6ssam B\u00c3\u00b6khary",
+      "timestamp_ms": 1686055822376,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1685264885343,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User, yop4742, LUXURY TRAVEL VIBES ADVENTURE and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuseryop4742luxurytravelvibesadventureand2others_6360901707299704",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

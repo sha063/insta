@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Shihab Aaqil"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "qwen__keyn",
+      "timestamp_ms": 1692284056524,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shihab Aaqil",
+  "is_still_participant": true,
+  "thread_path": "inbox/shihabaaqil_17903358326826688",
+  "magic_words": [
+    
+  ]
+}

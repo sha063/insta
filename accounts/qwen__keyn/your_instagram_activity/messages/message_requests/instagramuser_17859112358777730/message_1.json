@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1658566518150,
+      "content": "LuckyMeta is a decentralized iGaming platform and invites you to participate in our project. Thomas Lenon will join the project team as our Blockchain Advisor. Based on blockchain decentralized technology, it is honest and reliable, and there is no threshold to participate in LuckyMeta, 30%---45% profit, and 100% make money from it.If you want to be ahead of the times and become a pioneer in the industry, Please Contact WhatsApp\u00ef\u00bc\u009a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1658566513354,
+      "content": "https://wa.me/13802139977",
+      "share": {
+        "link": "https://wa.me/13802139977"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17859112358777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

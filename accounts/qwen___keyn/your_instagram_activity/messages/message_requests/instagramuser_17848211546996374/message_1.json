@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1687085511694,
+      "content": "https://stretgirl.com/karolen",
+      "share": {
+        "link": "https://stretgirl.com/karolen",
+        "share_text": "https://stretgirl.com/karolen"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17848211546996374",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

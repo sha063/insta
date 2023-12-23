@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1668438292129,
+      "content": "Please check @sheesisters - You might enjoy it as well :)\n\n@sheesisters",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17842290941894660",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

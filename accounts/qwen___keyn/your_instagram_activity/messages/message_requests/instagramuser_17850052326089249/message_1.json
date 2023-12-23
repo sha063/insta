@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1700226212249,
+      "content": "She just made an ONLYF*NS and she\u00e2\u0080\u0099s sending people who dm and follow her free previews!!! Dm her @nataliexkiing \u00f0\u009f\u0098\u008d you\u00e2\u0080\u0099re welcome",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1700226209914,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/nataliexkiing",
+        "profile_share_username": "nataliexkiing",
+        "profile_share_name": "Natalie \u00f0\u009f\u0096\u00a4"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17850052326089249",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

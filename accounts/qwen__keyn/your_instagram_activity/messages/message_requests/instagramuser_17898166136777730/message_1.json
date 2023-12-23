@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1680035574877,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/freakzheadquarter",
+        "profile_share_username": "freakzheadquarter",
+        "profile_share_name": "\u00f0\u009f\u0090\u00b0"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1680035574665,
+      "content": "Hey bro, you should check out @emibaex \u00f0\u009f\u0098\u0089 She\u00e2\u0080\u0099s the only person on instagram who sends free ONLYF*NS content to everyone who messages her \u00f0\u009f\u00a5\u00b5\n\nBut be quick though she\u00e2\u0080\u0099s only sending to the next 500 people \u00f0\u009f\u0092\u00a6\u00f0\u009f\u0098\u0088",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17898166136777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

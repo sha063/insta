@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "reels"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "qwen__keyn",
+      "timestamp_ms": 1702497375510,
+      "content": "sajjuwriter07 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "qwen__keyn",
+      "timestamp_ms": 1702497374952,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzoJL9frJh_/?carousel_share_child_media_id=3235876233387424005_56821939204",
+        "share_text": "",
+        "original_content_owner": "sajjuwriter07"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "reels",
+  "is_still_participant": true,
+  "thread_path": "inbox/reels_17938596212777730",
+  "magic_words": [
+    
+  ]
+}

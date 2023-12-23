@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "noahohc"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "qwen__keyn",
+      "timestamp_ms": 1693630877927,
+      "content": "you can save drug addicts' lives successfully\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "noahohc",
+  "is_still_participant": true,
+  "thread_path": "inbox/noahohc_17894662835863278",
+  "magic_words": [
+    
+  ]
+}

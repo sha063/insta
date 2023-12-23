@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "ruacap_76ut"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ruacap_76ut",
+      "timestamp_ms": 1702858309782,
+      "content": "ruacap_76ut sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/sophiexraain",
+        "profile_share_username": "sophiexraain",
+        "profile_share_name": ""
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ruacap_76ut",
+  "is_still_participant": true,
+  "thread_path": "message_requests/ruacap_76ut_17845894491118010",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

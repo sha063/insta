@@ -1,0 +1,412 @@
+{
+  "ig_custom_audiences_all_types": [
+    {
+      "advertiser_name": "Meetsocial HK Digital Marketing Co.\u00ef\u00bc\u008cltd-1",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nielsen Marketing Cloud",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AE Powerwin BM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Retargetly",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bluefocus",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dasshu - \u00e8\u0084\u0087\u00e8\u0087\u00ad\u00e5\u00af\u00be\u00e7\u00ad\u0096 - \u00c4\u0090\u00e1\u00ba\u00b7c tr\u00e1\u00bb\u008b h\u00c3\u00b4i n\u00c3\u00a1ch & h\u00c3\u00b4i ch\u00c3\u00a2n Nh\u00e1\u00ba\u00adt B\u00e1\u00ba\u00a3n",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bestow Life Insurance",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kier Gaines",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Position2",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sweet Life",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ARM - Consulting Accounts",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Celeb Lifestyle",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bhnailed 24",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Top Pop Today",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bot B\u00c3\u00a1n H\u00c3\u00a0ng DBL",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Th\u00e1\u00bb\u009di s\u00e1\u00bb\u00b1 24h",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dasshu- Tr\u00e1\u00bb\u008b H\u00c3\u00b4i N\u00c3\u00a1ch S\u00e1\u00bb\u0091 M\u00e1\u00bb\u0099t Nh\u00e1\u00ba\u00adt B\u00e1\u00ba\u00a3n",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gumi Nh\u00e1\u00ba\u00adt",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Francesca",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hotel Holiday",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Better Me",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Buzzing Bee",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Modern Stories",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lead Perfomance World LLC 100",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SpiceHeaven",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Raf brand 21",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Your Sports Spot",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PVR CINEMAS",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PVR Pictures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dialog Axiata",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "NSG Pro VND12",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Si\u00c3\u00aau Th\u00e1\u00bb\u008b H\u00c3\u00a0ng Nh\u00e1\u00ba\u00adp Kh\u00e1\u00ba\u00a9u Nh\u00e1\u00ba\u00adt",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Microsoft",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gather One",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BetterMen: Workout Planner",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sophia - Your Personal Trainer",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nexus War",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nestl\u00c3\u00a9 Milkmaid Sweet Delights",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Netmarble Corporation",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marvel Future Fight",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Iron Throne",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rise of Firstborn",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lineage 2: Revolution",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Carat - MSFT - USA",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Microsoft for Nonprofits",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Powerwin",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alibaba.com",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bharat Matrimony",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SrilankanMatrimony",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Roar AdX",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Airtel Life",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Landmark Arabia - Centrepoint",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "You Look Beautiful",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Centrepoint  \u00d8\u00b3\u00d9\u0086\u00d8\u00aa\u00d8\u00b1\u00d8\u00a8\u00d9\u0088\u00d9\u008a\u00d9\u0086\u00d8\u00aa",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "vyro.ai",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Imagine",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cheil South West Asia Regional Headquarter",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Samsung",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "patpat.lk",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Apparel Group",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "R&B Arabia",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AliHelper app",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "28 Day Challenge",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "28 Day's Challenge",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AdQuantum 2",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "3-Min Daily Workout Routines",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Snaptube",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Beauty Tips",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    }
+  ]
+}

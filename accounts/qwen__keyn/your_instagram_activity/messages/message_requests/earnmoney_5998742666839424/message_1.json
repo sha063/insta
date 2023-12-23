@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Samir Khan"
+    },
+    {
+      "name": "Avni chaudhary"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_lakshyaraj77",
+      "timestamp_ms": 1681929254037,
+      "content": "_lakshyaraj77 left the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahil Shah",
+      "timestamp_ms": 1681548736654,
+      "content": "Sahil Shah left the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1681546941808,
+      "content": "Hello, Do you know that you can earn \u00e2\u0082\u00b94000-\u00e2\u0082\u00b98000 per day or more then this easily, work online, You can do this with your own Mobile phone and without any time limit, contact our customer service /WhatsApp: wa.me/919642125520",
+      "share": {
+        "link": "http://wa.me/919642125520",
+        "share_text": "Hello, Do you know that you can earn \u00e2\u0082\u00b94000-\u00e2\u0082\u00b98000 per day or more then this easily, work online, You can do this with your own Mobile phone and without any time limit, contact our customer service /WhatsApp: wa.me/919642125520"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1681546940993,
+      "content": "Hello, Do you know that you can earn \u00e2\u0082\u00b94000-\u00e2\u0082\u00b98000 per day or more then this easily, work online, You can do this with your own Mobile phone and without any time limit, contact our customer service /WhatsApp: wa.me/919642125520",
+      "share": {
+        "link": "http://wa.me/919642125520",
+        "share_text": "Hello, Do you know that you can earn \u00e2\u0082\u00b94000-\u00e2\u0082\u00b98000 per day or more then this easily, work online, You can do this with your own Mobile phone and without any time limit, contact our customer service /WhatsApp: wa.me/919642125520"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1681546939637,
+      "content": "A contact named the group earn money.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "earn money",
+  "is_still_participant": true,
+  "thread_path": "message_requests/earnmoney_5998742666839424",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

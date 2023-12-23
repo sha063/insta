@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "\u00e5\u00b0\u008f\u00e5\u0087\u00b1"
+    },
+    {
+      "name": "Pakgah Ju'e"
+    },
+    {
+      "name": "kokonight95"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "\u00e2\u0099\u00ad"
+    },
+    {
+      "name": "\u00e8\u0090\u008c\u00e8\u0090\u008c\u00f0\u009f\u008c\u00b8"
+    },
+    {
+      "name": "__saad__M01"
+    },
+    {
+      "name": "Litza Rodriguez"
+    },
+    {
+      "name": "\u00e9\u0099\u00b3\u00e5\u00ae\u0087"
+    },
+    {
+      "name": "tehrinh.555"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701402743969,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e5\u00ae\u008b\u00e6\u009f\u008f\u00e7\u00bf\u00b0",
+      "timestamp_ms": 1701402737139,
+      "content": "\u00e5\u00ae\u008b\u00e6\u009f\u008f\u00e7\u00bf\u00b0 left the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701402733760,
+      "content": "https://line.me/ti/p/ueDY3BytWw",
+      "share": {
+        "link": "https://line.me/ti/p/ueDY3BytWw",
+        "share_text": "https://line.me/ti/p/ueDY3BytWw"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701402718546,
+      "content": "A contact added you and 8 others to the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701402707703,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e5\u00b0\u008f\u00e5\u0087\u00b1, Pakgah Ju'e, kokonight95 and 7 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/xiaokaipakgahjuekokonight95and7others_6797626883683086",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

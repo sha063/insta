@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "A. Bruzzese | Diary"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A. Bruzzese | Diary",
+      "timestamp_ms": 1661369146264,
+      "content": "Hey, just followed you.. \u00e2\u009d\u00a4\u00ef\u00b8\u008f\r\n\r\nCould you please check out my girl @mscierra_ryan \u00f0\u009f\u0098\u008d  I think you would really be impressed by her... \u00f0\u009f\u0098\u0089\r\n\r\nShe really deserves attention & support.. Xoxo \u00f0\u009f\u0093\u00a9",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "A. Bruzzese | Diary",
+      "timestamp_ms": 1661369144707,
+      "content": "A. Bruzzese sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/mscierra_ryan",
+        "profile_share_username": "mscierra_ryan",
+        "profile_share_name": "Cierra Ryan"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "A. Bruzzese | Diary",
+  "is_still_participant": true,
+  "thread_path": "message_requests/abruzzesediary_17864506175777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

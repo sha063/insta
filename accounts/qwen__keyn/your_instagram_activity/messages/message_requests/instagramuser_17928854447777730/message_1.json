@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1696820310509,
+      "content": "@sophiierain just released her ONLYF*NS and she\u00e2\u0080\u0099s picking one of her followers to make content with this week! Now is your chance \u00f0\u009f\u0091\u0080",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1696820308959,
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17928854447777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

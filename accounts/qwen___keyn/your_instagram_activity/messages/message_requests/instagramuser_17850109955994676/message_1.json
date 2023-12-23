@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1687147905337,
+      "content": "https://best-stream.com/laurie",
+      "share": {
+        "link": "https://best-stream.com/laurie",
+        "share_text": "https://best-stream.com/laurie"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17850109955994676",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

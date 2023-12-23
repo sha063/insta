@@ -1,0 +1,76 @@
+{
+  "devices_devices": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1703070133
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 312.1.0.34.111 Android (29/10; 320dpi; 720x1440; TECNO MOBILE LIMITED/TECNO; TECNO KE5j; TECNO-KE5j; mt6761; en_US; 548323754)",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1700939340
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 240.2.0.18.107 Android (29/10; 320dpi; 2048x2048; TECNO MOBILE LIMITED/TECNO; TECNO KE5j; TECNO-KE5j; mt6761; en_US; 378116721)",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1688834952
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Barcelona 289.0.0.77.109 Android (29/10; 320dpi; 720x1440; TECNO MOBILE LIMITED/TECNO; TECNO KE5j; TECNO-KE5j; mt6761; en_US; 489720145)",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1665778608
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 249.0.0.20.105 Android (29/10; 320dpi; 2048x2048; TECNO MOBILE LIMITED/TECNO; TECNO KE5j; TECNO-KE5j; mt6761; en_US; 392286035)",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

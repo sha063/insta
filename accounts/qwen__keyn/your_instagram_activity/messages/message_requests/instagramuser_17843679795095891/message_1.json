@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1698851848684,
+      "content": "Hello! \u00f0\u009f\u0091\u008b I represent the Meryandi promoter team, and we believe you would be a perfect fit for our Activewear! \u00f0\u009f\u0098\u008e\r\n\r\nWe would love to send you our MERYPACK\u00f0\u009f\u0093\u00a6 with 3 FREE items! \u00f0\u009f\u0092\u0096 This is a genuine offer, and we assure you that it's not fake. Please send us a direct message (DM) saying COLLAB To \u00f0\u009f\u0091\u0089@meryandi.activewear \r\n\r\nEmillie will respond to your message as soon as possible!\r\nPlease note that this exclusive packaging is limited to the first 10 individuals who reach out first, so we encourage you to act quickly\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1698851846681,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/meryandi.activewear",
+        "profile_share_username": "meryandi.activewear",
+        "profile_share_name": "MERYANDI ACTIVEWEAR \u00c2\u00ae"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17843679795095891",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

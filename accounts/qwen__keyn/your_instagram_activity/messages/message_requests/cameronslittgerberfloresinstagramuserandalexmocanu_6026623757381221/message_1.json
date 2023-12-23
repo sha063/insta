@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "cameronslitt"
+    },
+    {
+      "name": "Gerber Flores"
+    },
+    {
+      "name": "qwen__keyn"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Alex M\u00c3\u00b8c\u00c3\u00a3n\u00c3\u00bb"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677705617939,
+      "content": "\u00f0\u009f\u0091\u0089 https://dfc8w.app.link/z973qKnxfxb",
+      "share": {
+        "link": "https://dfc8w.app.link/z973qKnxfxb",
+        "share_text": "\u00f0\u009f\u0091\u0089 https://dfc8w.app.link/z973qKnxfxb"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677705616240,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u00bb Peace & Happiness\u00f0\u009f\u0092\u009b",
+      "timestamp_ms": 1677700458593,
+      "content": "\u00f0\u009f\u008c\u00bb Peace & Happiness\u00f0\u009f\u0092\u009b left the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677700454493,
+      "content": "\u00f0\u009f\u0091\u0089 https://dfc8w.app.link/U9eaBLnxfxb",
+      "share": {
+        "link": "https://dfc8w.app.link/U9eaBLnxfxb",
+        "share_text": "\u00f0\u009f\u0091\u0089 https://dfc8w.app.link/U9eaBLnxfxb"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677700453483,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677700448009,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "cameronslitt, Gerber Flores, Instagram User and Alex M\u00c3\u00b8c\u00c3\u00a3n\u00c3\u00bb",
+  "is_still_participant": true,
+  "thread_path": "message_requests/cameronslittgerberfloresinstagramuserandalexmocanu_6026623757381221",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

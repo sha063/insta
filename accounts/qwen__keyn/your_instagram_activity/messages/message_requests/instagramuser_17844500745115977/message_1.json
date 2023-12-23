@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1702086064959,
+      "content": "\u00f0\u009f\u0091\u0086DM @dremedici \u00e2\u0080\u009cYES\u00e2\u0080\u009d if you\u00e2\u0080\u0099re interested in GROWING on IG 100% guaranteed! Real followers,\r\nengagement, and daily\r\ninbound leads in your target\r\nmarket! \r\n\r\nDM @dremedici \u00e2\u0080\u009cYES\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1702086063375,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/dremedici",
+        "profile_share_username": "dremedici",
+        "profile_share_name": "Dre Medici | Growth & Marketing Expert"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17844500745115977",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

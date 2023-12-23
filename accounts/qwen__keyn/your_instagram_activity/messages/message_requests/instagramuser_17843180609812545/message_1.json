@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1657575582507,
+      "content": "https://bit.ly/3AHAzfF",
+      "share": {
+        "link": "https://bit.ly/3AHAzfF",
+        "share_text": "458.458 VIEWERS"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17843180609812545",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

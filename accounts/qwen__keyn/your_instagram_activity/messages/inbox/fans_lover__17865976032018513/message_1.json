@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "fans_lover_\u00f0\u009f\u008d\u0091"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "qwen__keyn",
+      "timestamp_ms": 1699485090648,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CwfDoocvMri/",
+        "share_text": "@noahohc",
+        "original_content_owner": "fanslover_43"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "fans_lover_\u00f0\u009f\u008d\u0091",
+  "is_still_participant": true,
+  "thread_path": "inbox/fans_lover__17865976032018513",
+  "magic_words": [
+    
+  ]
+}

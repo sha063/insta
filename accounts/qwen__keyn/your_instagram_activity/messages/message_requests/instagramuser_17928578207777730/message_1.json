@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1696670544061,
+      "content": "She just released her first EVER 3sum on her ONLYF*NS!! \u00f0\u009f\u008d\u0086 \u00f0\u009f\u00a4\u00a9 And she's sending the \u00f0\u009f\u0092\u00a6 shot to anyone who follows her today \u00f0\u009f\u0091\u0080 @sooogsx",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1696670542213,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/sooogsx",
+        "profile_share_username": "sooogsx",
+        "profile_share_name": "soogs \u00f0\u009f\u0096\u00a4"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17928578207777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

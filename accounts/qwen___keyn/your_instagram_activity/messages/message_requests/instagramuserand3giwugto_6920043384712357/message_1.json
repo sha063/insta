@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "3gi\u00e2\u0080\u0086wu\u00e2\u0080\u0086g\u00e2\u0080\u0086t\u00e2\u0080\u0086O"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1692562274254,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User and 3gi\u00e2\u0080\u0086wu\u00e2\u0080\u0086g\u00e2\u0080\u0086t\u00e2\u0080\u0086O",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuserand3giwugto_6920043384712357",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Peter"
+    },
+    {
+      "name": "RT970117"
+    },
+    {
+      "name": "Eric Liu"
+    },
+    {
+      "name": "\u00e5\u0090\u00b3\u00e6\u00ba\u0090\u00e5\u0084\u0084"
+    },
+    {
+      "name": "Brian Ren"
+    },
+    {
+      "name": "Vic"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701405081995,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701405058567,
+      "content": "A contact added you and 4 others to the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701405033545,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Peter, RT970117, Eric Liu and 4 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/peterrt970117ericliuand4others_6592965507499699",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

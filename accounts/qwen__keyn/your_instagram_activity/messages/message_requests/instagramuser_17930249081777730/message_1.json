@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1697644053905,
+      "content": "I just found the hottest Asian girl @lillywuxo with an 0NLYFANS \u00f0\u009f\u0098\u008d and she\u00e2\u0080\u0099s following back this week",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1697644052690,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/lillywuxo",
+        "profile_share_username": "lillywuxo",
+        "profile_share_name": ""
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17930249081777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

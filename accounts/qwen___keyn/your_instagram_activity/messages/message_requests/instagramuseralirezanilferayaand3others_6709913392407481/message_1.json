@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "ALIREZA"
+    },
+    {
+      "name": "nilferaya"
+    },
+    {
+      "name": "James Oluwatoyin"
+    },
+    {
+      "name": "Ravi Panada"
+    },
+    {
+      "name": "Haley \u00f0\u009f\u0099\u0088"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luis Cavieres",
+      "timestamp_ms": 1695300285064,
+      "content": "Luis Cavieres left the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1695299595439,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "share_text": " "
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1695299586945,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User, ALIREZA, nilferaya and 3 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuseralirezanilferayaand3others_6709913392407481",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

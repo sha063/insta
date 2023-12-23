@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Alex Christian Nieto Olvera"
+    },
+    {
+      "name": "Romi"
+    },
+    {
+      "name": "qwen___keyn"
+    },
+    {
+      "name": "beastwarsmachines"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1685681675099,
+      "content": "https://ht7rd.app.link/e/eFOubZyn8zb",
+      "share": {
+        "link": "https://ht7rd.app.link/e/eFOubZyn8zb",
+        "share_text": " https://ht7rd.app.link/e/eFOubZyn8zb"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1685681673847,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User, Alex Christian Nieto Olvera, Romi and beastwarsmachines",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuseralexchristiannietoolveraromiandbeastwarsmachines_6538054119580232",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

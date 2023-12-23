@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "26zoefry0498"
+    },
+    {
+      "name": "ALIREZA"
+    },
+    {
+      "name": "Henri"
+    },
+    {
+      "name": "******** guess lol"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "26zoefry0498",
+      "timestamp_ms": 1702459319192,
+      "content": "New posts of videos that are trending on TikTok \u00f0\u009f\u0094\u00a5\u00f0\u009f\u0098\u008d\u00e2\u0087\u00a8 https://ujjz.cnga.sbs/lQu9bE7lqD",
+      "share": {
+        "link": "https://ujjz.cnga.sbs/lQu9bE7lqD",
+        "share_text": "New posts of videos that are trending on TikTok \u00f0\u009f\u0094\u00a5\u00f0\u009f\u0098\u008d\u00e2\u0087\u00a8 https://ujjz.cnga.sbs/lQu9bE7lqD"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "26zoefry0498, ALIREZA, Henri and ******** guess lol",
+  "is_still_participant": true,
+  "thread_path": "message_requests/26zoefry0498alirezahenriandguesslol_6699313210183427",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

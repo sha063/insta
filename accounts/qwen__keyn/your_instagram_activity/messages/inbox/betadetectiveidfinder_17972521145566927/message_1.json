@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0093\u00b7BETA DETECTIVE|ID FINDER\u00f0\u009f\u0095\u00b5\u00ef\u00b8\u008f\u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "qwen__keyn",
+      "timestamp_ms": 1694535275513,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cw5jjjMyrE5/?carousel_share_child_media_id=3186734579394868543_44938975084",
+        "share_text": "",
+        "original_content_owner": "bd.beauty.girls"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0093\u00b7BETA DETECTIVE|ID FINDER\u00f0\u009f\u0095\u00b5\u00ef\u00b8\u008f\u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+  "is_still_participant": true,
+  "thread_path": "inbox/betadetectiveidfinder_17972521145566927",
+  "magic_words": [
+    
+  ]
+}

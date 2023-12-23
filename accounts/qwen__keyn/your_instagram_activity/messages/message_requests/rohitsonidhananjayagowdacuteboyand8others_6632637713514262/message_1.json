@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Soni"
+    },
+    {
+      "name": "dhananjayagowda"
+    },
+    {
+      "name": "Cute boy \u00f0\u009f\u00a5\u00b0"
+    },
+    {
+      "name": "Lalu Kumar"
+    },
+    {
+      "name": "Karan Saxena"
+    },
+    {
+      "name": "Shobhit Joshi"
+    },
+    {
+      "name": "bishoni_anju"
+    },
+    {
+      "name": "Ali Irshad"
+    },
+    {
+      "name": "Hasnain Badshah"
+    },
+    {
+      "name": "qwen__keyn"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "rahulpandey2669@gmail.com"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1699163036749,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1699163029832,
+      "content": "wa.me/919688640659",
+      "share": {
+        "link": "http://wa.me/919688640659",
+        "share_text": "wa.me/919688640659"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1699163027439,
+      "content": "Are you still worried about low income? The Indian market employs a large number of online customer service employees. Job requirements: 1-2 hours of work per day, regardless of location, male or female. Requirements: 25 years or older, familiar with English (you only need your mobile phone to get started) No work experience required. If you are interested, please add and contact our HR Assistant: WhatsApp:",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1699163019476,
+      "content": "A contact added you and 8 others to the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1699163004547,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohit Soni, dhananjayagowda, Cute boy \u00f0\u009f\u00a5\u00b0 and 8 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/rohitsonidhananjayagowdacuteboyand8others_6632637713514262",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

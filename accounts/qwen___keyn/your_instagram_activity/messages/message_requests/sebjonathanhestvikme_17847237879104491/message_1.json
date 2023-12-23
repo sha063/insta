@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "sebjonathanhestvikme"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sebjonathanhestvikme",
+      "timestamp_ms": 1702579072712,
+      "content": "Bulkyfans, Get Instagram Followers Naturally with our Trusted Marketing Services.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sebjonathanhestvikme",
+      "timestamp_ms": 1702579070040,
+      "content": "sebjonathanhestvikme sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/bulkyfans",
+        "profile_share_username": "bulkyfans",
+        "profile_share_name": "BulkyFans\u00f0\u009f\u0094\u00b5"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sebjonathanhestvikme",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sebjonathanhestvikme_17847237879104491",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

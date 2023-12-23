@@ -1,0 +1,74 @@
+{
+  "impressions_history_ads_seen": [
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "rose_petals_vy"
+        },
+        "Time": {
+          "timestamp": 1703070410
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "bubiczlbn"
+        },
+        "Time": {
+          "timestamp": 1703070415
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "binance"
+        },
+        "Time": {
+          "timestamp": 1703070441
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "anitasaimon"
+        },
+        "Time": {
+          "timestamp": 1703073604
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "bubiczlbn"
+        },
+        "Time": {
+          "timestamp": 1703070343
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "bubiczlbn"
+        },
+        "Time": {
+          "timestamp": 1703070343
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "anitasaimon"
+        },
+        "Time": {
+          "timestamp": 1703073601
+        }
+      }
+    }
+  ]
+}

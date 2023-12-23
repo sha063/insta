@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Lays"
+    },
+    {
+      "name": "Anne"
+    },
+    {
+      "name": "Eric Pohl"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1696268163045,
+      "content": "\u00e2\u0096\u00b6\u00ef\u00b8\u008f \u00f0\u009f\u0093\u00b1 HOT (xxx) videos \u00f0\u009f\u0094\u009e https://u.to/b0H9Hw",
+      "share": {
+        "link": "https://u.to/b0H9Hw",
+        "share_text": "\u00e2\u0096\u00b6\u00ef\u00b8\u008f \u00f0\u009f\u0093\u00b1 HOT (xxx) videos \u00f0\u009f\u0094\u009e https://u.to/b0H9Hw"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User, Lays, Anne and Eric Pohl",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuserlaysanneandericpohl_7074516882561211",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

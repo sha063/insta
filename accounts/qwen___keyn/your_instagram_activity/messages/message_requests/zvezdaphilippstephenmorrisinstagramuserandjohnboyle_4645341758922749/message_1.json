@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Zvezda.Philipp"
+    },
+    {
+      "name": "Stephen Morris"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "John Boyle"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1685601757857,
+      "content": "https://6vuts.app.link/e/tHYbEo4HfAb",
+      "share": {
+        "link": "https://6vuts.app.link/e/tHYbEo4HfAb",
+        "share_text": " https://6vuts.app.link/e/tHYbEo4HfAb"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Zvezda.Philipp, Stephen Morris, Instagram User and John Boyle",
+  "is_still_participant": true,
+  "thread_path": "message_requests/zvezdaphilippstephenmorrisinstagramuserandjohnboyle_4645341758922749",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

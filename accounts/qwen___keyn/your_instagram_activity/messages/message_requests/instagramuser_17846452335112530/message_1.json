@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1702079446020,
+      "content": "Hello there! This is Victor from @blacknedveil \r\n\r\nYour profile has entranced us, and it's clear that your mystique would harmonize perfectly with our gothic clothing brand. We're extending this ethereal invitation to you, inviting you to collaborate with us and bring your enchanting charm to our dark and elegant designs.\r\n\r\nTo show our appreciation, we're thrilled to offer you a selection of our finest garments, entirely free of charge. We believe these pieces will resonate with your essence and elevate your mystic allure even further.\r\n\r\nCould you please send us a message on our official Instagram page, @blacknedveil ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1702079443037,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/blacknedveil",
+        "profile_share_username": "blacknedveil",
+        "profile_share_name": "\u00f0\u009d\u0095\u00ad\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0088\u00f0\u009d\u0096\u0090\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0089 \u00f0\u009d\u0096\u0081\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0091"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17846452335112530",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Sanju Rajadi"
+    },
+    {
+      "name": "Sagar Dubey"
+    },
+    {
+      "name": "Thomas-Peter"
+    },
+    {
+      "name": "Rakesh Kumar Choudhary"
+    },
+    {
+      "name": "Nadeem Ahmad"
+    },
+    {
+      "name": "Kinjal Patel"
+    },
+    {
+      "name": "Chandresh Patel"
+    },
+    {
+      "name": "Nilesh Jadhav"
+    },
+    {
+      "name": "qwen__keyn"
+    },
+    {
+      "name": "Naval Kishor Yadav"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bharath"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701000299783,
+      "content": "https://chat.whatsapp.com/ETUwqtn1IfBAmLWxbQMF8H",
+      "share": {
+        "link": "https://chat.whatsapp.com/ETUwqtn1IfBAmLWxbQMF8H",
+        "share_text": "https://chat.whatsapp.com/ETUwqtn1IfBAmLWxbQMF8H"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701000297564,
+      "content": "The Indian stock market is in the midst of a bull run! Last week our team teacher successfully recommended the (RELIANCE) stock, which has recently risen strongly, and group members have been making great gains. If you are eager to get better quality stocks and higher earnings, welcome to join our team for free. Here you will have the opportunity to learn from the teacher's unique investment methods and share investment experience.\n\nOur group promises to share 2-3 stocks that are about to rise strongly every day to provide you with investment direction. Our teachers have over 20 years of experience in financial market research.\nIf you are a stock trader in India and are speculating in stocks, if you have stocks that are losing money and don't know how to operate them, please join the \"Wells Capital Stock Exchange Group\" and contact the group management to analyse your stocks for free! Click on the group link below to join the whatsapp group and we'll be together!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701000293770,
+      "content": "A contact added you and 8 others to the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1701000273191,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sanju Rajadi, Sagar Dubey, Thomas-Peter and 8 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sanjurajadisagardubeythomaspeterand8others_6760586324032460",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

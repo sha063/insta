@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "aspav"
+    },
+    {
+      "name": "\u00e8\u008a\u00b1\u00e6\u009d\u0091\u00e4\u00bf\u008a\u00e5\u00b9\u00b8"
+    },
+    {
+      "name": "omar"
+    },
+    {
+      "name": "Cladenecc"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1692562247147,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "aspav, \u00e8\u008a\u00b1\u00e6\u009d\u0091\u00e4\u00bf\u008a\u00e5\u00b9\u00b8, omar and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/aspavhuacunjunxingomarand2others_6969854116366834",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

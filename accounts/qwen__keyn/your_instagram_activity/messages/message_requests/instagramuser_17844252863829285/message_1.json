@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660348154133,
+      "content": "https://bit.ly/33Dhgps",
+      "share": {
+        "link": "https://bit.ly/33Dhgps",
+        "share_text": "https://bit.ly/33Dhgps"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660348148053,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17844252863829285",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

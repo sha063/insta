@@ -1,0 +1,24 @@
+{
+  "apps_and_websites_off_meta_activity": [
+    {
+      "name": "Udemy",
+      "events": [
+        {
+          "id": 1457291081167286,
+          "type": "CUSTOM",
+          "timestamp": 1696341540
+        }
+      ]
+    },
+    {
+      "name": "fino.lk",
+      "events": [
+        {
+          "id": 1559252057906138,
+          "type": "PAGE_VIEW",
+          "timestamp": 1694936520
+        }
+      ]
+    }
+  ]
+}

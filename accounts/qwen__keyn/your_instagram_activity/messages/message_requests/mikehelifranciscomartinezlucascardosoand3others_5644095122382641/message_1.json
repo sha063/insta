@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "mike.heli"
+    },
+    {
+      "name": "Francisco Martinez"
+    },
+    {
+      "name": "Lucas Cardoso"
+    },
+    {
+      "name": "Achim Tebeck"
+    },
+    {
+      "name": "Bryan Miller"
+    },
+    {
+      "name": "qwen__keyn"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1673199562264,
+      "content": "\u00f0\u009f\u0091\u0089 https://sweetpu55y.app.link/2qf9doe5oub",
+      "share": {
+        "link": "https://sweetpu55y.app.link/2qf9doe5oub",
+        "share_text": "\u00f0\u009f\u0091\u0089 https://sweetpu55y.app.link/2qf9doe5oub"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1673199559380,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1673193866409,
+      "content": "\u00f0\u009f\u0091\u0089 https://sweetpu55y.app.link/CgjsbuwWsub",
+      "share": {
+        "link": "https://sweetpu55y.app.link/CgjsbuwWsub",
+        "share_text": "\u00f0\u009f\u0091\u0089 https://sweetpu55y.app.link/CgjsbuwWsub"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1673193862745,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mike.heli, Francisco Martinez, Lucas Cardoso and 3 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/mikehelifranciscomartinezlucascardosoand3others_5644095122382641",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

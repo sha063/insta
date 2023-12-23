@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Lu Schofield"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lu Schofield",
+      "timestamp_ms": 1656356676022,
+      "share": {
+        "link": "https://www.instagram.com/_u/astridpalca",
+        "profile_share_username": "astridpalca",
+        "profile_share_name": "Astrid Palca"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lu Schofield",
+      "timestamp_ms": 1656356676022,
+      "content": "Please check @astridpalca - You might enjoy it as well :)",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lu Schofield",
+  "is_still_participant": true,
+  "thread_path": "message_requests/luschofield_113251611426537",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

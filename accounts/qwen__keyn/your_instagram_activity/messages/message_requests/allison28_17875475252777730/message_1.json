@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Allison || 28"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Allison || 28",
+      "timestamp_ms": 1667528467267,
+      "content": "Hi \u00f0\u009f\u0092\u009b\r\n\r\nHave you seen @latinadreax ? She's so hot \u00e2\u009c\u00a8\r\nIt would mean so much to her if you could support her with a follow \u00f0\u009f\u0099\u008f \r\n\r\nGet in touch with her if you want, she'll reply to you \u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Allison || 28",
+      "timestamp_ms": 1667528466666,
+      "content": "Allison sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/drea.miax",
+        "profile_share_username": "drea.miax",
+        "profile_share_name": ""
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Allison || 28",
+  "is_still_participant": true,
+  "thread_path": "message_requests/allison28_17875475252777730",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,2698 @@
+{
+  "ig_custom_audiences_all_types": [
+    {
+      "advertiser_name": "Bluefocus",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Carat - MSFT - USA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Meetsocial HK Digital Marketing Co.\u00ef\u00bc\u008cltd-1",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TikTok",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nexon Korea Corporation",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nielsen Marketing Cloud",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Black Clover M: Rise Of The Wizard King",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Satullo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MX Player SNG",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "zeotap",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "World Series of Poker Game - WSOP",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AE Powerwin BM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Audacy Social Conquest",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "DataCamp",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Angry Birds",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wattpad",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "King",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Retargetly",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pixonic",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Uniagency",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "LinkedIn",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00e5\u0086\u00a0\u00e8\u00bf\u009b-Madhouse",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hotstar",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "eBay.co.uk",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Victra",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FB Growth Marketing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hong Kong Zoom Interactive Network Marketing Technology Limited",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alibaba advertising",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fino.lk",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ESPNcricinfo",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GroupM Media India Private Limited",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zoom",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dialog Axiata",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Discord",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Powerwin",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alibaba.com",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Balta Group",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Recrewtment",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "VAB",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Powerserv Austria",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Immobilien Stellen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "as mediendesign",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vertriebs Stellen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mercedes-Benz Hedin Automotive",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HAROL sun protection, roller shutters & outdoor living",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Miller Graphics Group",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "S\u00c3\u00bcdostschweizjobs.ch",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Idyl",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lanka Loan",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Philips",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gather One",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hotelbeds",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Michael Page Deutschland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Page Personnel Italia",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Michael Page Switzerland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Michael Page Italia",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zorg Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Berkvens Deursystemen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HR Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Production Jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Techniek Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Oerlemans Plastics B.V.",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BASF",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Snaptube",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gemeente Vlissingen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Verpleeghuis Leythenrode",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alrijne Ziekenhuis",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Werken voor Den Haag",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Administratief",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rocket",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "De Selectie",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Estinea",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Demaco",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Berliner Woche",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PreZero Nederland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Excelitas Technologies Corp.",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Local Jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "letztalkabout",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Interswitch",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hilversum Mediastad",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "WoCom",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs ICT",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Job Administratief",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ICT Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Onderwijs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Babbage Company",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "JOIN the team",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Career Pioneer",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Consolid Detacheerder en Opleider",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "fvwjobs.de \u00e2\u0080\u00a2 Jobs in der Touristik-Branche",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "IZ-Jobs.de - Ihr Jobportal f\u00c3\u00bcr die Immobilienbranche",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HUC",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Customer Care Jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Halfords",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Manpower Nederland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Eden Hotels",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Holiday Inn Eindhoven",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Qatar Airways",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sales Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PharmaPartners",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HRAdsys",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SoSafe",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hubert Burda Media",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "T\u00c3\u009cV Hessen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Generali Deutschland Karriere",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs.morgenpost.de",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gr\u00c3\u00bcnderszene",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hayscareer",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "meinestadt.de - Jobs in deiner N\u00c3\u00a4he",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "meinestadt.de - Jobs in deiner Region",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ALBA Europe",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "meinestadt.de - Stellen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Webhelp Enschede",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Page Personnel Deutschland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Socialr Test",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Helloprint",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lantech",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Intercept",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ocaro",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Werken bij Merba",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SMT Netherlands",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Spot-People Nederland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "academics.de",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Page Personnel Espa\u00c3\u00b1a",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zentrum f\u00c3\u00bcr Betreuung und Pflege am Schloss Neuwied",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Deutsches Pflegejobportal",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The Nobby Life",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kinging-It",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "J\u00c4\u0099zykowa Si\u00c5\u0082ka - Patryk Topoli\u00c5\u0084ski",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The Naked French Podcast:  Learn French Naturally",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hopscotch the Globe",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "One Girl One World",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bia Atkins",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Crazy Russian Dad",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Eatlivetraveldrink",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "RayaWasHere",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Allisa Rose",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gabo serra",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Travel Fave",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The Luxe Blogger",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Streets, Beats and Eats",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alison's Adventures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Eater",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vox",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Top5",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SarahFunky",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ManTripping",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TravelFreak",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lina Vasquez",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marcel Becker",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Do You Remember?",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Qatar Executive",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00e8\u008d\u0092\u00e9\u0087\u008e\u00e4\u00ba\u0082\u00e9\u00ac\u00a5 Brawl Stars",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Iron Throne",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rise of Firstborn",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marvel Future Fight",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lineage 2: Revolution",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Netmarble Corporation",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Carat Hong Kong",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "British Council Sri Lanka",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Discover Qatar",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Qatar Airways Holidays",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Graine de voyageuse - Blog voyage",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sudoku - Free Sudoku Puzzles",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "YinoLink\u00e6\u0098\u0093\u00e8\u00af\u00ba",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ADB Publications",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ikman.lk Audience",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ikman.lk - Digital Media",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ikman",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Saltside BM2",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "English Arts Academy",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rebecca Elizabeth",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The Juicy Vlog",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Solo Travel Society",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Postcards to Seattle",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HappyNurse Uitzendbureau",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Beratung Stellen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus am Juliuspark Wolfenb\u00c3\u00bcttel",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zentrum f\u00c3\u00bcr Betreuung und Pflege Ph\u00c3\u00b6nix Obertraubling",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Korian",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus Curanum Wolfenb\u00c3\u00bcttel",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus Charlottenhof Peine",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus an der Ludwigsh\u00c3\u00b6he Ansbach",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus am Klostergarten Oberschweinbach",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Soziales Netzwerk Schauinsland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus Eichenhof Sassenburg",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus Ph\u00c3\u00b6nix am Roggenberg",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus Marthahof Dinslaken",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus am Mariengrund Brandenburg an der Havel",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Seniorenresidenz Ph\u00c3\u00b6nix Dettelbach",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Boskalis",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Christeyns",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Schadenberg Groep",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bergerat Monnoyeur Belgium",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dana",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ArcelorMittal Belgium",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "DUCO Ventilation & Sun Control",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "localjob.de Rhein-Main",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zentrum f\u00c3\u00bcr Betreuung und Pflege Mainz-Finthen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus an den M\u00c3\u00b6nchskutten -Schweinfurt",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Travel to Blank",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CreditPh - Search Loans",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Curbed",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Topdust",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Babbel",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Glassdoor for Employers",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fishbowl",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Glassdoor",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ceyloan",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cash contact",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Social Waves",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Yaloan Online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus Mainparksee, Mainaschaff",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Adwave LTD",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "LKLoans - Search Loans",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Adskill Ltd 5",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Village Hotel Club",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "De Gelderhorst",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zorgfederatie Oldenzaal",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sherpa",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zorgpartners Midden-Holland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Werken bij Sherpa",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haus Ph\u00c3\u00b6nix am Muppberg",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Provalu",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Antyra Solutions",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "It Stellen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Udemy",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bezzy IBD",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Medical News Today",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cameralk Academy",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cameralk Rent Store",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SecondOption",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CameraLK Store",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Udemy Vietnam",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00ec\u009c\u00a0\u00eb\u008d\u00b0\u00eb\u00af\u00b8 \u00ed\u0094\u0084\u00eb\u00a1\u009c\u00ec\u00a0\u009d\u00ed\u008a\u00b8 \u00ec\u00ba\u00a0\u00ed\u0094\u0084",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Udemy Japan",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Udemy Korea",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00eb\u00a0\u0088\u00eb\u00b2\u00a8\u00ec\u0097\u0085 \u00ed\u0094\u008c\u00eb\u00a0\u0088\u00ec\u009d\u00b4\u00ec\u008a\u00a4",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Maryville University Online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Greatist",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "edX",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Our Chalet",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sangam World Centre",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "World Association of Girl Guides and Girl Scouts",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "XM",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cisco Secure",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Duo Security",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Charles River Interactive",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Singer Sri Lanka",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "eMarketingEye",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kapruka",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Healthline",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bezzy Community",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Curren",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Portfolio Rendezv\u00c3\u00a9nyek",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stellenb\u00c3\u00b6rse.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Online-jobb\u00c3\u00b6rse",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "References.be",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "R\u00c3\u00a9f\u00c3\u00a9rences Academy",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wonderkind",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Addict Mobile",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Moglix",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AdGlobal360",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Opera",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Opera browser",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Iron Maiden: Legacy of the Beast",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Agr\u00c3\u00a1rszektor.hu",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Plenty and Well With Nat",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Portfolio",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Backgammon - Lord of the Board",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Travel With Wife",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Operation Lanka",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hutch Sri Lanka",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sachini Nipunsala",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MySoftlogic Online Store",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bezzy Multiple Sclerosis",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Healthline: Living with Rheumatoid Arthritis",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bezzy Psoriasis",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Iamalanamarie",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CARLO",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Appcoach-Pzoom PC BM",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stellenangebote.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bewell",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Irish Daily Mirror",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Reach Ireland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Santani",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Helix Digital",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Keells",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Banco de Bogot\u00c3\u00a1",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Universal Mccann",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Spades Royale",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gin Rummy Stars",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bing Search App",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nexus War",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bewell Advertising",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "WalesOnline",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stock JourNoey",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00e0\u00b8\u00a3\u00e0\u00b8\u00b9\u00e0\u00b9\u0089\u00e0\u00b8\u00a2\u00e0\u00b8\u00b1\u00e0\u00b8\u0087 - Roo Young",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "EventPass",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Extreme IT",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ADBIG",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mercular.com",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Les Elfes International",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mat's Market",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CHANMUNY",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fifa Mobile Division Official",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Codashop",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Reach Customer Marketing",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cynon Valley Online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "1mg Healthcare",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kent Live Partners",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "dentsu X India",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tata 1mg",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Microsoft for Nonprofits",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Microsoft",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Airtel Life",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nations Trust Bank",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SriLankan Airlines",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Roar AdX",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Flight Search Direct",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Travel Media Direct",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cheshire Live Partners",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Teesside Live Partners",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cardiff Online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wales Online Partners",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Local World News",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Electric Heating Company",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wales Rugby Online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The Mirror",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dublin Live",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "My Dover",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "KentLive",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rhondda Leader",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Merthyr Express",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pontypridd Online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs-online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Find-your-job",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Technik Stellen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Horeca en Recreatie",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Techniek",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HabiTask",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Beleid & Bestuur Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gemeente Krimpenerwaard",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Bouw",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Onderwijs Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AVR",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Juridisch",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bouw Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Regionaal Historisch Centrum Vecht en Venen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Horeca Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stichting AAP",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mediacollege Amsterdam",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Customer Service Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Creativiteit",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Retail en Handel",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Unilin",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "La Lorraine Bakery Group",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Xwift",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Smulders",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FAIS",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Delta Light",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wienerberger Belgium",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Logistieke Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Provincie Noord-Holland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pro Industry",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zoekbijbaan",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Logisch werving en selectie",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Haritha Villas + Spa",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sterksen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobmarkt-NRW",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "JobsinTh\u00c3\u00bcringen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mitarbeiter-gesucht.de",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HamburgerJOBS.de",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "meinestadt.de - Jobangebote",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Horizont Jobs \u00e2\u0080\u00a2 Jobs in Marketing, Werbung und Medien",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alerimus",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lekkerkerker Food",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vacature Toppers",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tesselaar Alstroemeria",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Back2businessjobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Widek B.V.",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Logistiek",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "JOIN our team",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "JOIN Solutions AG",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rehbach Personal-Service GmbH",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "meinestadt.de - Jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "EngineeringJobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ormit Talent Nederland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vlammrs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs auf dem Schiff",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BACK2BUSINESS",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Unicum Trade Botanicals",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Food Service Industry Jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Offene-stellen.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Consultancy Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BeljonWesterterp",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Iventa. The Human Management Group",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Andere Stellen",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Overheid",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Financieel",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Management",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Zorg",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jobs Sales",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Administratieve Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marketing Jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Management Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CGI Nederland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Online-Jobmarkt",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Socially Recruited",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FUNKE",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "New-job.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Get-your-job",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Job-market.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stellenanzeigen.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Neue-stelle.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "New-jobs",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stellenausschreibungen.online",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "meinestadt.de",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CONSILIO GmbH",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HR Solutions",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hilton Cologne",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Costa Coffee",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "De Clerck: ramen en deuren",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PizzaExpress",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "First Bus Careers",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Heythrop Hotel Recruitment",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Partnerships at Vets for Pets",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Greenyard Prepared",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kerkstoel NV",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "DL Chemicals",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mijn Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "IVC Group",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HeadCount",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Productie Vacatures",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "VDL Bus Roeselare",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "VIELMEER K\u00c3\u00bchlungsborn",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Space",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Body&Fit",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Deichmann Karriere",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "That Solution GmbH",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dein-Neuer-Job",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PERI Deutschland",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CBT Ein Unternehmen der Caritas",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "7Things - my basic hotel - my favorite apartment",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nordsee Kollektiv",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stadthotel M\u00c3\u00bcnster",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Strandpieper Norderney",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stellenpool24",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    }
+  ]
+}

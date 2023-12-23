@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "BD Beauty Shoutout \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00a9"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "qwen__keyn",
+      "timestamp_ms": 1699898561959,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzRWdfrPneb/?carousel_share_child_media_id=3229461186046998874_57136778285",
+        "share_text": "",
+        "original_content_owner": "beauty.angels_bd"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "BD Beauty Shoutout \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/bdbeautyshoutout_17899001819906286",
+  "magic_words": [
+    
+  ]
+}

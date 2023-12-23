@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1697398648071,
+      "content": "Hi there! Can I invite you to please check out the account @authenticluxuriestv... and maybe follow them if you like premium luxury goods at an affordable price? Would be awesome. \u00f0\u009f\u0098\u008c Thanks a lot and hope I didn\u00e2\u0080\u0099t bother you too much \u00f0\u009f\u0099\u008c",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1697398645927,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/authenticluxuriestv",
+        "profile_share_username": "authenticluxuriestv",
+        "profile_share_name": "Authentic Luxuries/Jim Norton"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17842109763093137",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

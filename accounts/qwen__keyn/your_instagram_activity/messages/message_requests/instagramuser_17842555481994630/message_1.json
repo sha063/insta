@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1684014262686,
+      "content": "FAKE NOTES / CLONED CARDS\r\nAll available with Next day delivery from UK.\r\nWe show Live Proof.\r\nPounds/ Euros \r\n@elodymann60\r\n\r\nOr Whats app us +44 7438758159",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1684014262335,
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17842555481994630",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

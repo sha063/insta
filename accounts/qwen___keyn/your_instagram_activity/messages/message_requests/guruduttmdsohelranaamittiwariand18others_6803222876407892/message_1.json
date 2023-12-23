@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Guru Dutt"
+    },
+    {
+      "name": "Md Sohel Rana"
+    },
+    {
+      "name": "Amit Tiwari"
+    },
+    {
+      "name": "sumit gupta"
+    },
+    {
+      "name": "Rahuul A Malhotra"
+    },
+    {
+      "name": "Ishan Rana"
+    },
+    {
+      "name": "Imliz Food"
+    },
+    {
+      "name": "Tarun Kanwaria"
+    },
+    {
+      "name": "Sai"
+    },
+    {
+      "name": "Sarav Thind"
+    },
+    {
+      "name": "Sonu Sai"
+    },
+    {
+      "name": "duas__khan"
+    },
+    {
+      "name": "mhdhilal24"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Jet Dhaliwal"
+    },
+    {
+      "name": "H G G Garg"
+    },
+    {
+      "name": "meghi"
+    },
+    {
+      "name": "Mohd Javed"
+    },
+    {
+      "name": "itzz '-'V.vip_ saini _\u00e2\u009d\u00a4_serpanch_ 001"
+    },
+    {
+      "name": "Anjali singh"
+    },
+    {
+      "name": "qwen___keyn"
+    },
+    {
+      "name": "javelin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nazmul Hasan",
+      "timestamp_ms": 1696367062799,
+      "content": "Nazmul Hasan left the group.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sovan",
+      "timestamp_ms": 1696268243363,
+      "content": "sovan left the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Guru Dutt, Md Sohel Rana, Amit Tiwari and 18 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/guruduttmdsohelranaamittiwariand18others_6803222876407892",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

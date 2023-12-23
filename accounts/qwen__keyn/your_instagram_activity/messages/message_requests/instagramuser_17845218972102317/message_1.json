@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen__keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1700256323909,
+      "content": "We believe you're the perfect match for our stylish apparel and accessories! \u00f0\u009f\u0098\u008e\r\n\r\nWe're thrilled to offer you a unique opportunity to receive our exclusive MICHPACK \u00f0\u009f\u0093\u00a6, which includes 2 FREE items from our latest collection! \u00f0\u009f\u0092\u0096 This is the real deal, no gimmicks, we promise. Simply shoot us a direct message (DM) with the code COLLAB DM to our official page @michawear.co\r\nOur team member, Emillie, is ready and waiting to assist you promptly! \u00f0\u009f\u0099\u008c\r\nAct fast, though! Our MICHPACK is limited to the first 10 individuals who reach out, so don't miss your chance to rock the latest in MICHAWEAR fashion. \u00f0\u009f\u008f\u0083\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f\u00f0\u009f\u008f\u0083\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1700256319362,
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17845218972102317",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

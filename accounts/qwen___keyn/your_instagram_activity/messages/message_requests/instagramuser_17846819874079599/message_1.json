@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "qwen___keyn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1697643656318,
+      "content": "@sooogsx just dropped her VIP ONLYF*NS \u00f0\u009f\u0091\u0080 YOU have been chosen as the lucky person to make content with her! Just subscribe and send her this screenshot to GET HER LOCATION AND FILM A TAPE!!! \u00f0\u009f\u00a5\u0087",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1697643653996,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/sooogsx",
+        "profile_share_username": "sooogsx",
+        "profile_share_name": "soogs \u00f0\u009f\u0096\u00a4"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_17846819874079599",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}
